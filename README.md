@@ -9,7 +9,7 @@ I am a passionate Front-End Developer with over 5 years of commercial experience
 
 | Category | Technologies |
 | --- | --- |
-| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **State & Async Management**| ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) `RxJS` `NgRx` `Context API` |
 | **Styling & UI Components**  | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) `SASS/SCSS` `Angular CDK` `Material UI` `Bootstrap` |
@@ -24,12 +24,3 @@ I am a passionate Front-End Developer with over 5 years of commercial experience
 - **Testing & Quality:** Writing reliable end-to-end tests with Playwright and unit/integration tests using Jasmine & Karma.
 - **Performance Optimization:** Fixing slow initial loads, code-splitting, optimizing bundle sizes, and mastering Core Web Vitals.
 - **Clean Architecture:** Writing clean, maintainable, TypeScript-driven code following SOLID principles.
-
----
-
-### 📬 Connect with Me
-
-- **Upwork:** [View My Freelance Profile](https://www.upwork.com/freelancers/~01d342c7cd3808e71a)
-- **Location:** Lviv, Ukraine 🇺🇦
-
-*Feel free to explore my repositories or reach out for professional collaboration!*
