@@ -10,7 +10,7 @@ Frontend engineer focused on complex enterprise UIs: admin panels, real-time das
 | Area | Technologies |
 |------|----------------|
 | Frontend | **Angular**, TypeScript, RxJS, NgRx, Angular Material, HTML5, CSS/SCSS |
-| Also | React, Redux, Next.js (selected projects) |
+| Also | React, Redux |
 | Backend practice | NestJS, Node.js, PostgreSQL, Prisma, REST, JWT |
 | Quality | Jasmine, Karma, Jest, Git, code review, Docker |
 
