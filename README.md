@@ -20,7 +20,7 @@ Lately I've been going deeper on **Angular 22 (Signals, Signal Forms, NgRx Signa
  
 **[fintech-app](https://github.com/anton-sobolevskyi/fintech-app)** — Multi-currency fintech admin dashboard *(in progress)*
 Accounts, transactions, reports, and data-source monitoring, built to explore Angular's newest primitives end-to-end.
-`Angular 22` `Signals` `Signal Forms` `NgRx SignalStore` `Firebase Auth/Firestore` `PrimeNG` `Chart.js` `Angular SSR`
+`Angular 22` `Signals` `Signal Forms` `NgRx SignalStore` `Firebase Auth/Firestore` `PrimeNG`
 🔗 **Live:** https://fintech-app-3aacb.web.app
  
 **[management_app_backend](https://github.com/anton-sobolevskyi/management_app_backend)** — Project & task management API
