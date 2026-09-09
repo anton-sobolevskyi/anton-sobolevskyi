@@ -12,7 +12,7 @@
 
 ## About
 
-I build production frontends for complex, data-heavy products — admin panels, real-time dashboards, fintech tools, e-commerce catalogs — mostly in **Angular**, with solid commercial experience in **React** as well.
+I build production frontends for complex, data-heavy products — admin panels, real-time dashboards, e-commerce catalogs — mostly in **Angular**, with solid commercial experience in **React** as well.
 
 Comfortable owning delivery end-to-end: state management, auth, API integration, real-time data, testing, and deployment. I work closely with Product, Design, QA, and backend teams.
 
