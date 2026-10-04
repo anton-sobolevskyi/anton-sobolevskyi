@@ -16,20 +16,13 @@ I build production frontends for complex, data-heavy products — admin panels, 
 
 Comfortable owning delivery end-to-end: state management, auth, API integration, real-time data, testing, and deployment. I work closely with Product, Design, QA, and backend teams.
 
-Lately I’ve been deepening **Angular 22 (Signals, Signal Forms, NgRx SignalStore)** and expanding on the backend with **NestJS / Prisma / PostgreSQL**, using the portfolio projects below as a proving ground.
+Lately I’ve been expanding on the backend with **NestJS / Prisma / PostgreSQL**, using the portfolio projects below as a proving ground.
 
 ---
 
 ## Portfolio projects
 
 These are personal projects built to demonstrate skills for job applications. All three are **deployed**.
-
-### [fintech-app](https://github.com/anton-sobolevskyi/fintech-app)
-Multi-currency fintech dashboard — accounts, transfers, top-ups, transactions, PDF reports.
-
-`Angular 22` `NgRx Signals` `Signal Forms` `PrimeNG` `Tailwind` `Firebase` `Cloud Functions` `PDFKit`
-
-🔗 **Live:** [fintech-app-3aacb.web.app](https://fintech-app-3aacb.web.app/)
 
 ### [management_app_backend](https://github.com/anton-sobolevskyi/management_app_backend)
 Project & task management REST API — roles, task lifecycle, comments, S3 attachments, Swagger.
